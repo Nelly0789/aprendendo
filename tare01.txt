@@ -1,0 +1,18 @@
+Regras 
+Abrir garra
+Feche garra
+Gire a garra para (lugar/objeto)
+Gire a garra 180 anti-horário
+Gire a garra 180 sentido horário 
+Tare_01
+mova a garra para a lampa velha 
+abra a garra 
+feche a garra
+gire a garra 180 sentido horário
+mova a garra para a mesa 
+abra a garra 
+mova a garra para a lampa nova
+feche a garra 
+mova a garra para o lugar de instalação 
+gire a garra 180 sentido anti-horário
+abra a garra
