@@ -1,0 +1,24 @@
+tare_02
+
+olhar para o semafaro 
+
+Se semafaro estiver vermelho 
+.Olhara paras os lados e atravese 
+Senão 
+.Espere 
+
+vire 
+
+olhe para a via 
+
+Se não tiver carro 
+.Atravese 
+Senão 
+.Espere 
+
+olhar para o semafaro 
+
+Se semafaro estiver vermelho 
+.olhara paras os lados e atravese 
+Senão 
+.espere 
